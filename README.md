@@ -1,8 +1,6 @@
 # ⚡ Rahul Shakya | AI Engineer & Full Stack Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Rahul%20Shakya&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+
 
 ### 🚀 About Me
 A passionate **AI Engineer** and **Full Stack Developer** from India, dedicated to building intelligent systems and scalable web applications. Currently pushing the boundaries of data with Machine Learning.
