@@ -1,59 +1,105 @@
-# ⚡ Rahul Shakya | AI Engineer & Full Stack Developer
+<div align="center">
 
+# ⚡ Rahul Shakya
+### AI Engineer • Full Stack Developer • ML Enthusiast
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+AI+Powered+Applications;Always+Learning+%26+Building+Something+New" />
 
-### 🚀 About Me
-A passionate **AI Engineer** and **Full Stack Developer** from India, dedicated to building intelligent systems and scalable web applications. Currently pushing the boundaries of data with Machine Learning.
-
-- 🔭 **Focusing on:** [SmartCart Clustering System](https://github.com/rahulshkya/smartcart-clustring)
-- 🌱 **Learning:** Deep Learning • Neural Networks • Generative AI
-- 👯 **Open to:** Collaborating on Open Source AI Tools
-- 💬 **Expertise:** Python, Machine Learning, FastAPI, MERN Stack
-- 📫 **Reach me:** rahulshaky9653@gmail.com
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
+Hi, I'm **Rahul Shakya**, a passionate **AI Engineer & Full Stack Developer** from India 🇮🇳
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <br/>
+I love building **intelligent systems, scalable web applications, and end-to-end ML products**.
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <br/>
+Currently focused on combining **Machine Learning + Full Stack Development + AI Deployment** to build real-world impactful solutions.
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+- 🔭 Currently working on **SmartCart Clustering System**
+- 🌱 Learning **Deep Learning • Neural Networks • Generative AI**
+- 💡 Interested in **AI Products, FastAPI, MLOps, MERN**
+- 🤝 Open to **Open Source & AI collaborations**
+- 📫 Email: **rahulshaky9653@gmail.com**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,java" />
+</p>
+
+### 🌐 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css,tailwind" />
+</p>
+
+### 🤖 AI / ML Stack
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### ⚙ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Project
+### 🛒 SmartCart Clustering System
+An intelligent ML-based customer segmentation project using clustering algorithms for smart retail insights.
+
+🔗 **Project Link:**  
+https://github.com/rahulshkya/smartcart-clustring
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulshkya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshkya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulshkya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshkya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshkya&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/rahul-shakya" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/rahul.shky" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:rahulshaky9653@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## 🌐 Connect With Me
+<p>
+<a href="https://linkedin.com/in/rahul-shakya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/rahul.shky">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rahulshaky9653@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📄 Documentation
-[**Explore My Experience (Resume)**](https://drive.google.com/file/d/1YXT5qaGx0iFU-2Ys7oqkBvUJe50-myWF/view?usp=drive_link)
+## 📄 Resume
+📌 **Explore My Experience:**  
+https://drive.google.com/file/d/1YXT5qaGx0iFU-2Ys7oqkBvUJe50-myWF/view
+
+---
+
+<div align="center">
+
+### ⭐ “Building AI that solves real-world problems.”
+
+</div>
